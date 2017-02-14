@@ -25,6 +25,7 @@ footer a {
 footer a:hover {
     text-decoration: none;
     border-bottom-color: #ffffff;
+    color: #afd9ff;
 }
 
 #results {
